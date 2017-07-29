@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Documentación para crear posts"
-subheadline: "Ayuda"
-teaser: "Ideas rápidas para hacer publicaciones"
-permalink: "/info/doc/"
+title: "Instalación"
+subheadline: "En unos minutos"
+teaser: "Esta página explica como instalar"
+permalink: "/instalacion/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 ---
