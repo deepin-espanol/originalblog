@@ -18,7 +18,7 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include alert text='Las licencias indicadas forma parte de los [términos de uso]({{ site.url }}/info/tos).' %}
+{% include alert text='Las licencias indicadas forma parte de los términos de uso.' %}
 
 En *Comunidad Deepin* queremos compartir el conocimiento a todos los usuarios y difundir mucho más. Eso nos facilita la tarea de ofrecer contenido de alta calidad que publicamos en esta página.
 
