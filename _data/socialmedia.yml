@@ -1,32 +1,37 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+ - name: GitHub
+   url: "http://github.com/comunidad-deepin"
+   class: icon-github
+   title: "Nuestro equipo"
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+ - name: Google+
+   url: "https://plus.google.com/communities/115544729561220868525"
+   class: icon-googleplus
+   title: "Comunidad en Google+"
+  
+ - name: Telegram
+   url: "https://t.me/deepinenespanol"
+   class: icon-telegram
+   title: "Deepin en español"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+ - name: YouTube
+   url: "https://www.youtube.com/channel/UCsy5zMxbAeeWlvBsuC9mLWg"
+   class: icon-youtube
+   title: "Videos sobre Deepin en idioma español"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Twitter
+#  url: http://twitter.com/phlow
+#  class: icon-twitter
+#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: "https://www.facebook.com/deepinenespanol/"
+   class: icon-facebook
+   title: "Página de Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
